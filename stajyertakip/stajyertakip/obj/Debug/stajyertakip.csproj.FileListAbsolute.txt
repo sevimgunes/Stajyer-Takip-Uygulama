@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\bin\Debug\stajyertakip.exe.config
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\bin\Debug\stajyertakip.exe
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\bin\Debug\stajyertakip.pdb
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.Form1.resources
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.Properties.Resources.resources
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.exe
+C:\Users\Hp\source\repos\stajyertakip\stajyertakip\obj\Debug\stajyertakip.pdb
